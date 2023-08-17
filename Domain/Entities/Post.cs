@@ -1,6 +1,6 @@
 ﻿
 
-namespace SocialSync.Domain.Entites
+namespace SocialSync.Domain.Entities
 {
     public class Post
     {
