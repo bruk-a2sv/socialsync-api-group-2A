@@ -1,5 +1,5 @@
 ﻿
-namespace SocialSync.Domain.Entities
+namespace Domain.Entities
 {
     public class Follow
     {
