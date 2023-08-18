@@ -1,9 +1,9 @@
 ﻿
-namespace SocialSync.Domain.Entities
+namespace Domain.Entities
 {
     public class Tag
     {
-        public int ID { get; set; }
-        public string Name { get; set; }
+        public int Id { get; set; }
+        public required string Name { get; set; }
     }
 }
